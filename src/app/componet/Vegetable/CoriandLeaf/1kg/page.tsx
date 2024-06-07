@@ -2,7 +2,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
-export const Kg1 = () => {
+ const Kg2 = () => {
     return (
       <div>
           <div className='text-blue-500 text-3xl text-center mt-10 bg-slate-300 font-bold py-3'>
@@ -26,4 +26,4 @@ export const Kg1 = () => {
                   </div>
   
                   )}
-                  export default Kg1
+                  export default Kg2
