@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React from 'react'
 
 
-export const Kg1 = () => {
+ const Kg1 = () => {
   return (
     <div>
         <div className='text-blue-500 text-3xl text-center mt-10 bg-slate-300 font-bold py-3'>
