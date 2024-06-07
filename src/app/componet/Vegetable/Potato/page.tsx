@@ -2,7 +2,7 @@ import Link from "next/link"
 import { DropdownMenuDemo5 } from "./select/Select4"
 import Image from "next/image"
 
-export const Pic1 = () => {
+ const Pic1 = () => {
     return (
       <div className=' pl-10  items-center justify-items-center grid sm:grid-cols-1  sm:text-center  lg:grid-cols-2 lg:items-center'>
              <div className='border-blue-400 border-x-4 border-y-4 hover:shadow-2xl hover:shadow-black text-cyan-600 rounded-lg text-center mt-20'>
